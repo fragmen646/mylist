@@ -1,0 +1,14 @@
+#model
+https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate.safetensors
+https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate-inpainting.safetensors
+https://huggingface.co/naonovn/chilloutmix_NiPrunedFp32Fix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
+https://huggingface.co/Slex0/EpicRealism/resolve/main/epicrealism_newAge.safetensors
+#vae
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
+#lora
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/ThaiDollLikeness_v10.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/chinaDollLikeness_v10.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/japaneseDollLikeness_v15.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/koreanDollLikeness_v20.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLikeness_v20.safetensors
+https://huggingface.co/zvzcxcvz/LowRA/resolve/main/LowRA.safetensors
