@@ -11,5 +11,15 @@ https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/ThaiDollLikenes
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/chinaDollLikeness_v10.safetensors
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/japaneseDollLikeness_v15.safetensors
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/koreanDollLikeness_v20.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/koreanDollLikeness_v15.safetensors
+https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLikeness_v15.safetensors
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLikeness_v20.safetensors
 https://huggingface.co/zvzcxcvz/LowRA/resolve/main/LowRA.safetensors
+https://huggingface.co/adhikjoshi/epi_noiseoffset/resolve/main/epiNoiseoffset_v2.safetensors
+https://civitai.com/api/download/models/68863 ##Maghreb
+https://civitai.com/api/download/models/59216 ##Russian
+https://civitai.com/api/download/models/60081 ##MidEast
+https://civitai.com/api/download/models/65807 ##India
+https://civitai.com/api/download/models/50182 ##Africa
+#extensions
+https://github.com/fragmen646/sd-webui-roop
