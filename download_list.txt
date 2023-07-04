@@ -24,6 +24,6 @@ https://civitai.com/api/download/models/50182 ##Africa
 #extensions
 https://github.com/fragmen646/sd-webui-roop
 https://github.com/richrobber2/canvas-zoom
-#embeddings
+#embedding
 https://civitai.com/api/download/models/95263 #epicnegative
 https://civitai.com/api/download/models/95256 #epicrealism
