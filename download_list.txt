@@ -1,6 +1,6 @@
 #model
 https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate.safetensors
-https://huggingface.co/naonovn/chilloutmix_NiPrunedFp32Fix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
+https://civitai.com/api/download/models/99805
 https://huggingface.co/spawn99/epiCRealism-pure-evo-3/resolve/main/epicrealism_pureEvolutionV3.safetensors
 https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors
 #vae
