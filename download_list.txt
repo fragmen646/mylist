@@ -18,6 +18,7 @@ https://huggingface.co/adhikjoshi/epi_noiseoffset/resolve/main/epiNoiseoffset_v2
 #extensions
 https://github.com/fragmen646/sd-webui-roop-nsfw
 https://github.com/richrobber2/canvas-zoom
+https://github.com/Iyashinouta/sd-model-downloader
 #embedding
 https://civitai.com/api/download/models/95263 #epicnegative
 https://civitai.com/api/download/models/95256 #epicrealism
