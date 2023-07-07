@@ -1,6 +1,5 @@
 #model
 https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate.safetensors
-https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate-inpainting.safetensors
 https://huggingface.co/naonovn/chilloutmix_NiPrunedFp32Fix/resolve/main/chilloutmix_NiPrunedFp32Fix.safetensors
 https://huggingface.co/spawn99/epiCRealism-pure-evo-3/resolve/main/epicrealism_pureEvolutionV3.safetensors
 https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors
@@ -16,11 +15,6 @@ https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLiken
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLikeness_v20.safetensors
 https://huggingface.co/zvzcxcvz/LowRA/resolve/main/LowRA.safetensors
 https://huggingface.co/adhikjoshi/epi_noiseoffset/resolve/main/epiNoiseoffset_v2.safetensors
-https://civitai.com/api/download/models/68863 ##Maghreb
-https://civitai.com/api/download/models/59216 ##Russian
-https://civitai.com/api/download/models/60081 ##MidEast
-https://civitai.com/api/download/models/65807 ##India
-https://civitai.com/api/download/models/50182 ##Africa
 #extensions
 https://github.com/fragmen646/sd-webui-roop-nsfw
 https://github.com/richrobber2/canvas-zoom
