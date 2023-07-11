@@ -1,5 +1,6 @@
 #model
 https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate.safetensors
+https://civitai.com/api/download/models/108576
 https://civitai.com/api/download/models/99805
 https://civitai.com/api/download/models/109123
 https://huggingface.co/spawn99/epiCRealism-pure-evo-3/resolve/main/epicrealism_pureEvolutionV3.safetensors
@@ -16,6 +17,8 @@ https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLiken
 https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLikeness_v20.safetensors
 https://huggingface.co/zvzcxcvz/LowRA/resolve/main/LowRA.safetensors
 https://huggingface.co/adhikjoshi/epi_noiseoffset/resolve/main/epiNoiseoffset_v2.safetensors
+https://civitai.com/api/download/models/93640
+https://civitai.com/api/download/models/87153
 #extensions
 https://github.com/fragmen646/sd-webui-roop-nsfw
 https://github.com/richrobber2/canvas-zoom
