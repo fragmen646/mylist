@@ -2,7 +2,7 @@
 https://huggingface.co/XpucT/Reliberate/resolve/main/Reliberate.safetensors
 https://huggingface.co/Lykon/AbsoluteReality/resolve/main/AbsoluteRealityV1.6525_pruned.safetensors
 https://huggingface.co/Envvi/Inkpunk-Diffusion/resolve/main/Inkpunk-Diffusion-v2.ckpt
-https://huggingface.co/spawn99/epiCRealism-pure-evo-3/resolve/main/epicrealism_pureEvolutionV3.safetensors
+https://civitai.com/api/download/models/119609
 https://huggingface.co/SG161222/Realistic_Vision_V3.0_VAE/resolve/main/Realistic_Vision_V3.0.safetensors
 #vae
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
