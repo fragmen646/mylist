@@ -1,8 +1,8 @@
 #model
 https://civitai.com/api/download/models/15236
 https://civitai.com/api/download/models/114429 ##CyberRealistic
-https://huggingface.co/Envvi/Inkpunk-Diffusion/resolve/main/Inkpunk-Diffusion-v2.ckpt
-https://civitai.com/api/download/models/119609 ##EpicRealism3.5
+https://civitai.com/api/download/models/99805
+https://civitai.com/api/download/models/114367
 https://civitai.com/api/download/models/115942
 #vae
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
