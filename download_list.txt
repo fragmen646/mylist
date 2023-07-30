@@ -1,9 +1,5 @@
 #model
-https://civitai.com/api/download/models/15236
-https://civitai.com/api/download/models/114429 ##CyberRealistic
-https://civitai.com/api/download/models/99805
-https://civitai.com/api/download/models/114367
-https://civitai.com/api/download/models/115942
+https://huggingface.co/SG161222/Realistic_Vision_V5.0_noVAE/resolve/main/Realistic_Vision_V5.0.safetensors
 #vae
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 #lora
