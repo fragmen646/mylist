@@ -1,5 +1,5 @@
 #model
-https://huggingface.co/SG161222/Realistic_Vision_V5.0_noVAE/resolve/main/Realistic_Vision_V5.0.safetensors
+https://civitai.com/api/download/models/136739
 #vae
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
 #lora
