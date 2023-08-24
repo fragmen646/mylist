@@ -13,7 +13,7 @@ https://huggingface.co/Kanbara/doll-likeness-series/resolve/main/taiwanDollLiken
 https://huggingface.co/zvzcxcvz/LowRA/resolve/main/LowRA.safetensors
 https://huggingface.co/adhikjoshi/epi_noiseoffset/resolve/main/epiNoiseoffset_v2.safetensors
 #extensions
-https://github.com/Em1tSan/sd-webui-roop-unlock
+https://github.com/Gourieff/sd-webui-reactor
 https://github.com/richrobber2/canvas-zoom
 https://github.com/Iyashinouta/sd-model-downloader
 https://github.com/fkunn1326/openpose-editor
